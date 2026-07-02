@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+
+# Data & outputs
+output/
+*.csv
+*.pkl
+*.npz
+*.pt
+*.npy
+*.tfrecord
+*.h5
+*.mat
+cache/
+checkpoint/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
